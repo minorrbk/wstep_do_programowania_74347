@@ -23,3 +23,4 @@ elif x < 2:
     xc = x - 4
 
 print(f"Wyniki to: A = {xa}, B = {xb}, C = {xc}")
+
