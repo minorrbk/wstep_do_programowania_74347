@@ -13,4 +13,5 @@ elif y > x:
         print(x)
         x = x + step
 elif x == y:
+
     print("Podales dwie takie same liczby.")
